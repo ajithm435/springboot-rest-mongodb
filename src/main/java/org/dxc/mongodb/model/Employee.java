@@ -15,7 +15,6 @@ import lombok.Setter;
 @Document(collection="employee")
 public class Employee {
 	
-	
 
 	@Id
 	private int employeeId;
