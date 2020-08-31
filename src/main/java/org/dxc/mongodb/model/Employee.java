@@ -14,6 +14,7 @@ import lombok.Setter;
 //@AllArgsConstructor
 @Document(collection="employee")
 public class Employee {
+	
 
 	@Id
 	private int employeeId;
